@@ -91,6 +91,7 @@ Initially Brainey will be in the array, but it takes more than one smurf to make
 
 Example of object created in Smurf DB:
 
+
 ```js
 [
   {
